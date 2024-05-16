@@ -64,9 +64,9 @@ But this does not mean that video games are useless or should be ignored. To sta
 
 [^8]: Annette Vowinckel, "From Re-enactment to the Simulation of History in Computer Games," *Historical Social Research* 34, no. 2 (2009): 323. Fogu, "Digitalizing Historical Consciousness," 121.
 
-[^9] Vowinckel, "From Re-enactment to the Simulation of History in Computer Games," 331.
+[^9]: Vowinckel, "From Re-enactment to the Simulation of History in Computer Games," 331.
 
-[^10] Vowinckel, "From Re-enactment to the Simulation of History in Computer Games," 331.
+[^10]: Vowinckel, "From Re-enactment to the Simulation of History in Computer Games," 331.
 
 [^11]: A. Martin Wainwright, "Teaching Historical Theory Through Video Games," *The History Teacher* 47, no. 4 (2014): 593.
 
@@ -126,7 +126,7 @@ But this does not mean that video games are useless or should be ignored. To sta
 
 [^39]: McMichael, "PC Games and the Teaching of History," 215.
 
-[^40] This author would like to stress the "screaming teens in the basement" aspect of video games; he has a little brother and it genuinely sounds like a murder is happening in the basement whenever the kid plays *Madden*. One drawback that did not make it into the "education" section was "the very real risk of students disturbing their neighbors as they play."
+[^40]: This author would like to stress the "screaming teens in the basement" aspect of video games; he has a little brother and it genuinely sounds like a murder is happening in the basement whenever the kid plays *Madden*. One drawback that did not make it into the "education" section was "the very real risk of students disturbing their neighbors as they play."
 
 ## Bibliography
 
