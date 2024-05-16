@@ -1,1 +1,1 @@
-This page contains my professional website.
+This page contains my professional website, including files hosted on it. It currently contains both a PDF and Markdown version of a paper I wrote on the use of video games for historial theory, publishing, and education. Within the website itself, there are also web links to projects I have worked on in the past, including a storymap for a local activist group in Kent County, Maryland and a series of maps for a professor from Washington College.
